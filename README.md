@@ -1,7 +1,7 @@
 # Echo Client/Proxy/Server
 
 ## Purpose:
-The purpose of this software is to build a very basic three part system consisting of a client, an intermediate host, and a server. The intermediate host does not change the packets, it just sends them on.
+The purpose of this software is to simulate a very basic three part system consisting of a client, an intermediate host, and a server. The intermediate host does not change the packets, it just sends them on.
 
 The system involves:
 - Internetworking via UDP/IP
