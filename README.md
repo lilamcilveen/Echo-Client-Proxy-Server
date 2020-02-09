@@ -12,9 +12,9 @@ The system involves:
 
 ## Set up instructions:
   1) Open **Eclipse** and import the project
-  2) Right click on **EchoServer.java** and select `Run As` -> `Java Application`
-  3) Right click on **IntermediateHost.java** and select `Run As` -> `Java Application`
-  4) Right click on **EchoClient.java** and select `Run As` -> `Java Application`
+  2) Right click on **EchoServer.java** and select `Run As` **>>** `Java Application`
+  3) Right click on **IntermediateHost.java** and select `Run As` **>>** `Java Application`
+  4) Right click on **EchoClient.java** and select `Run As` **>>** `Java Application`
   
   One of the buttons in Eclipse near the console tab is "Display Selected Console".
   When you choose this option you can select from any of the three running applications.
