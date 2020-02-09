@@ -27,6 +27,7 @@ There are 3 .java files under basic.system consisting of:
 
 ## Limitations:
 - The intermediate host could be updated to change packets and thus become an error simulator for the system.
+- The client must run **after** the server.
 
 ---
 
