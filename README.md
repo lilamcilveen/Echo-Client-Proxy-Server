@@ -7,7 +7,7 @@ The system involves:
 - Internetworking via UDP/IP
 - Java’s DatagramPacket and DatagramSocket classes
 - Conversion between Strings and arrays of bytes
-- Running multiple main programs (projects) concurrently, acting as 3 separate systems
+- Running multiple main programs concurrently, acting as 3 separate systems
 
 
 ## Set up instructions:
