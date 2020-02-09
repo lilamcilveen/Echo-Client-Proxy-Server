@@ -22,7 +22,7 @@ Set Up Instructions:
   4) Right click on EchoClient.java and select Run As -> Java Application
 
 Usage:
-  One of the buttons in Eclipse near your console tab is "Display Selected Console".
+  One of the buttons in Eclipse near the console tab is "Display Selected Console".
   When you choose this option you can select from any of the three running applications.
 
 Limitations:
