@@ -9,7 +9,6 @@ The system involves:
 - Conversion between Strings and arrays of bytes
 - Running multiple main programs concurrently, acting as 3 separate systems
 
-
 ## Set up instructions:
   1) Open **Eclipse** and import the project
   2) Right click on **EchoServer.java** and select `Run As` **>>** `Java Application`
@@ -26,8 +25,10 @@ There are 3 .java files under basic.system consisting of:
 - EchoClient.java
 
 ## Limitations:
-- The intermediate host could be updated to change packets and thus become an error simulator for the system.
-- The client must run **after** the server.
+- The client must run after the server.
+- The system is currently configured to do 5 reads, 5 writes, and 1 invalid packet
+  - This can be changed through `echoAndReceive()` in **EchoClient.java** 
+- The intermediate host could be updated to change packets and thus become an error simulator for the system
 
 ---
 
