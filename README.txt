@@ -16,7 +16,7 @@ Software organization:
 		- EchoClient.java
 
 Set Up Instructions:
-  1) Open Eclipse and import the directory '101038709_Assignment2'
+  1) Open Eclipse and import the project
   2) Right click on EchoServer.java and select Run As -> Java Application
   3) Right click on IntermediateHost.java and select Run As -> Java Application
   4) Right click on EchoClient.java and select Run As -> Java Application
