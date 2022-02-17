@@ -1,13 +1,13 @@
 # Echo Client/Proxy/Server
 
 ## Purpose:
-The purpose of this software is to simulate a very basic three part system consisting of a client, an intermediate host, and a server. The intermediate host does not change the packets, it just sends them on.
+The purpose of this software is to simulate a basic three part system consisting of a client, intermediate host, and server. The intermediate host does not change the packets, it just sends them.
 
 The system involves:
 - Internetworking via UDP/IP
 - Java’s DatagramPacket and DatagramSocket classes
 - Conversion between Strings and arrays of bytes
-- Running multiple main programs concurrently, acting as 3 separate systems
+- Running multiple systems concurrently (demonstrated as 3 separate processes with specific networking rules)
 
 ## Set up instructions:
   1) Open **Eclipse** and import the project
